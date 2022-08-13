@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/badminton-order/static/css/main.c86cdf6c.css",
+    "main.js": "/badminton-order/static/js/main.db005a76.js",
+    "index.html": "/badminton-order/index.html",
+    "main.c86cdf6c.css.map": "/badminton-order/static/css/main.c86cdf6c.css.map",
+    "main.db005a76.js.map": "/badminton-order/static/js/main.db005a76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c86cdf6c.css",
+    "static/js/main.db005a76.js"
+  ]
+}
